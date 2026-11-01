@@ -1,0 +1,6 @@
+{
+  "name": "HisabBook — Personal Expense & Budget Tracker",
+  "description": "Professional personal expense tracker, income ledger, monthly budget planner, and financial reporting app in INR (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
